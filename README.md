@@ -6,9 +6,7 @@ This method work on all PDF readers(Any version) and java scripts are not requir
 
 Reference : https://research.checkpoint.com/ntlm-credentials-theft-via-pdf-files/
 
-### Update: Added support to send NTLM hashes over HTTP 
-
-Note : HTTP hash stealing option require, "auto detect proxy" setting to be enabled in IE to work. 
+ 
 
 ### Disclaimer:
 
@@ -23,7 +21,7 @@ python badpdf.py
 
 #### Run Bad-PDF in Kali linux:
 
-![alt text](https://github.com/deepzec/Bad-Pdf/blob/master/screenshots/bad-pdf3.PNG "Bad-PDF")
+![alt text](https://github.com/deepzec/Bad-Pdf/blob/master/screenshots/bad-pdf.PNG "Bad-PDF")
 
 #### Responder waiting for NTLM hash:
 
